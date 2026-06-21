@@ -46,6 +46,7 @@ p {
     background-color: #ffffff;
     border-radius: 1.2%;  
      width: 1070px;
+    box-shadow: 6px 6px 4px 0px rgba(59, 59, 59, 0.75);
 }
 .freud {
     width: 250px;
