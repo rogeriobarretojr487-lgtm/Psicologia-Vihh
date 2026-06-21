@@ -39,9 +39,14 @@ p {
     color: rgb(0, 0, 0);
     font-family: 'Brush Script MT', cursive;
     letter-spacing: 1px;   
-    font-size: 26px;
+    font-size: 27px;
 }
+.Complet {
 
+    background-color: #ffffff;
+    border-radius: 1.2%;  
+     width: 1070px;
+}
 .freud {
     width: 250px;
     height: auto;
@@ -66,6 +71,10 @@ p {
     text-decoration: none;
     font-family: 'Brush Script MT', cursive;
     letter-spacing: 2px;   
-    font-size: 28px;
-    text-align: left;
+    font-size: 28px;   
+}
+
+.link:hover {
+    color: blue;
+    text-decoration: underline;
 }
